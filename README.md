@@ -96,14 +96,7 @@ Os resultados evidenciam:
 
 ---
 
-
-⚠️ **Atenção:** A base não está incluída neste repositório. Para reproduzir os experimentos:
-1. Baixe os dados no link acima.
-2. Coloque o arquivo CSV dentro da pasta `data/`.
-
-
-
-## 📂 Estrutura do Repositório
+## ➔ Estrutura do Repositório
 fraud-analysis-financial-transactions/
 │── README.md <- Este documento
 │── artigo/ <- Artigo completo em PDF (modelo ACM)
@@ -112,9 +105,9 @@ fraud-analysis-financial-transactions/
 │── results/ <- Gráficos e resultados gerados
 │── requirements.txt <- Dependências do projeto
 
+---
 
-
-**Tecnologias Utilizadas**:
+** ➔ Tecnologias Utilizadas**:
 - Python 3.10+
 - Pandas, Numpy
 - Scikit-learn
