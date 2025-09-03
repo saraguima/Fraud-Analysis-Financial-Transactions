@@ -60,7 +60,50 @@ Entre os principais **insights**:
 - A maior parte das transações fraudulentas está concentrada em determinados tipos de operação financeira;  
 - Existe um desbalanceamento extremo entre transações legítimas e fraudulentas (menos de 1% são fraudes).  
 
-📊 Exemplos de gráficos disponíveis na pasta [`results/graficos`](./results/graficos).
+Para facilitar a visualização e a compreensão, cada gráfico possui seu próprio código Python e imagem gerada, organizados na pasta src/visualizacao/ da seguinte forma:
+
+src/visualizacao/
+
+├── grafico1/
+
+│   ├── tipo_transacao.py
+
+│   └── resultado_grafico1.png
+
+├── grafico2/
+
+│   ├── valores_transacao.py
+
+│   └── resultado_grafico2.png
+
+├── grafico3/
+
+│   ├── proporcao_fraude.py
+
+│   └── resultado_grafico3.png
+
+├── grafico4/
+│   ├── transacoes_step.py
+
+│   └── resultado_grafico4.png
+
+└── grafico5
+
+│  ├── boxplot_tipo_fraude.py
+  
+│  └── resultado_grafico5.png
+
+
+## Detalhamento: Tópico 4.2 Visualização dos Dados
+Figura 1 — Distribuição dos tipos de transação
+
+Figura 2 — Histograma dos valores das transações financeiras (escala log)
+
+Figura 3 — Proporção entre transações legítimas e fraudulentas
+
+Figura 4 — Quantidade de transações por unidade de tempo (step)
+
+Figura 5 — Boxplot dos valores das transações por tipo e fraude (escala log)
 
 ---
 
