@@ -1,4 +1,4 @@
-# Fraud Analysis in Financial Transactions Using the Synthetic Financial Dataset For Fraud Detection
+# Artigo Científico: Fraud Analysis in Financial Transactions Using the Synthetic Financial Dataset For Fraud Detection
 
 ## ➔ Contexto Acadêmico
 Este repositório contém contém os códigos, análises e resultados do artigo científico desenvolvido na disciplina **Sistemas de Informação Integrada**, no 7º semestre de **Sistemas de Informação**.
